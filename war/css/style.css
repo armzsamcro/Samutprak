@@ -1,0 +1,26 @@
+section {
+  padding-top: 80px;
+  height: 1000px;
+
+}
+.inverse{
+background-color:#333333;
+color:#FFFFFF;
+}
+.icon{
+	width:140px;
+	height: 140px;
+}
+.iconmenu{
+	width:15px;
+	height: 15px;
+	margin-right: 10px;
+}
+.gallery{
+	width: 760px;
+	height: 768px;
+
+}
+
+
+
